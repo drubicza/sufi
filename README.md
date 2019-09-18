@@ -1,12 +1,12 @@
 
 
 # Cara Install
-$pkg install python2
+$ pkg install python2
 
-$pkg install git
+$ pkg install git
 
-$git clone https://github.com/nnda-id/sufi
+$ git clone https://github.com/nnda-id/sufi
 
-$cd sufi
+$ cd sufi
 
-$python2 sufi.py
+$ python2 sufi.py
